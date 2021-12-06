@@ -11,7 +11,7 @@ void showMenu(void);
 #include "Account.h"
 #include "SavingsAccount.h"
 
-                                            //Shaquan Turner 1817001436 //Novadeen McInnis 2008035530 //Chevon McIntosh 2017001610     //Jahvaughn Binns 2017001833
+                                            //Shaquan Turner 1817001436  //Chevon McIntosh 2017001610     //Jahvaughn Binns 2017001833
 
 
 using namespace std;
